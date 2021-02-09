@@ -1,0 +1,16 @@
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\obj\Debug\net5.0\WarriorWar.csprojAssemblyReference.cache
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\obj\Debug\net5.0\WarriorWar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\obj\Debug\net5.0\WarriorWar.AssemblyInfoInputs.cache
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\obj\Debug\net5.0\WarriorWar.AssemblyInfo.cs
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\obj\Debug\net5.0\WarriorWar.csproj.CoreCompileInputs.cache
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\bin\Debug\net5.0\WarriorWar.exe
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\bin\Debug\net5.0\WarriorWar.deps.json
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\bin\Debug\net5.0\WarriorWar.runtimeconfig.json
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\bin\Debug\net5.0\WarriorWar.runtimeconfig.dev.json
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\bin\Debug\net5.0\WarriorWar.dll
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\bin\Debug\net5.0\ref\WarriorWar.dll
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\bin\Debug\net5.0\WarriorWar.pdb
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\obj\Debug\net5.0\WarriorWar.dll
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\obj\Debug\net5.0\ref\WarriorWar.dll
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\obj\Debug\net5.0\WarriorWar.pdb
+D:\Documents\Dev\Projetos\Basics-of-Object-Oriented-Programming-with-CS\WarriorWar\obj\Debug\net5.0\WarriorWar.genruntimeconfig.cache
